@@ -1,5 +1,5 @@
 # Baseball players and Figures
-BASEBALL PROJECT
+
 Que o baseball é um dos esportes mais vistos entre os americanos, ninguém tem dúvida, mas você pode se perguntar: Quais foram/são os melhores jogadores que marcaram história nesse esporte e quais são seus dados individuais para que possa checar o quanto foram decisivos. No dataset a seguir, iremos analisar cada insight relativo a cada jogador, além de outros dados interessantes sobre esse esporte que tanto atrai fãs no mundo inteiro. Vamos lá?
 Resumo
 Análise dos atletas de baseball e suas médias de Home-Runs e rebatidas na liga de baseball nos Estados Unidos. 
